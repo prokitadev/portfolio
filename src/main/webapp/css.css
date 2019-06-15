@@ -1,0 +1,76 @@
+.btn-primary {
+    color: white;
+    background-color: rgb(48, 49, 51);
+    border-color: rgb(48, 49, 51);
+}
+
+.card-body {
+    text-align: center;
+
+}
+
+.bg-dark-cd {
+    background-color: rgb(48, 49, 51);
+    margin-bottom: 30px;
+}
+
+.navbar {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: .5rem 5rem;
+}
+
+.foot {
+    padding: .5rem 5rem;
+}
+
+.bar-nv {
+    align-items: flex-start;
+}
+
+
+.jumbotron {
+    padding-left: 5rem;
+}
+
+.fab {
+    font-size: 45pt;
+    text-align: center;
+    padding: 5rem 5rem;
+}
+
+.button-1, .button-1:hover, .button-1:active, .button-1:focus {
+    color: rgb(48, 49, 51)!important;
+    background-color: transparent!important;
+    border-color: transparent!important;
+    text-align: left;
+    padding-left: 0;
+    transition: none;
+    outline: 0;
+    cursor: auto;
+}
+.btn-secondary.focus, .btn-secondary:focus {
+    box-shadow: 0 0 0 0!important;;
+}
+
+
+.button-3 {
+    color: white;
+    background-color: rgb(48, 49, 51);
+    border-color: rgb(48, 49, 51);
+ }
+.row {
+    padding: 2rem 2rem;
+
+}
+
+.card-body {
+    height: 30%;
+}
